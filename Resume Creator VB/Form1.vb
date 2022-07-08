@@ -6,11 +6,11 @@ Imports iTextSharp.text.pdf.draw
 
 Public Class Form1
     Private Sub create_button_Click(sender As Object, e As EventArgs) Handles create_button.Click
-        Dim jsonpath As String = ""
+        Dim jsonpath As String = "X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\resumeCreator.json"
         Dim openfile As String = File.ReadAllText(jsonpath)
         Dim resumeout As JsonReader = JsonConvert.DeserializeObject(Of JsonReader)(openfile)
         Dim pdfcreator As Document = New Document()
-        PdfWriter.GetInstance(pdfcreator, New FileStream("", FileMode.Create))
+        PdfWriter.GetInstance(pdfcreator, New FileStream("X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\ZENAROSA_JAIREH.pdf", FileMode.Create))
         Dim font1 As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.COURIER.ToString(), 25, iTextSharp.text.Font.BOLD)
         Dim font2 As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.COURIER.ToString(), 17, iTextSharp.text.Font.BOLD)
         Dim font3 As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.TIMES_ROMAN.ToString(), 13)
