@@ -53,7 +53,7 @@ Partial Class Form1
         Me.Controls.Add(Me.label1)
         Me.Controls.Add(Me.create_button)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Resume Generator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

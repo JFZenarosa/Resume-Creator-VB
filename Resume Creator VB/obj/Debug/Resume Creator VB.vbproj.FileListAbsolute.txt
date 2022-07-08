@@ -1,0 +1,68 @@
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Resume Creator VB.exe.config
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Resume Creator VB.exe
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Resume Creator VB.pdb
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Resume Creator VB.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\BouncyCastle.Crypto.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.barcodes.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.commons.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.forms.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.html2pdf.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.io.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.kernel.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.layout.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.pdfa.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.sign.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.styledxmlparser.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.svg.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itextsharp.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Logging.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Options.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Primitives.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Newtonsoft.Json.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Buffers.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Memory.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Numerics.Vectors.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.ValueTuple.dll
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\BouncyCastle.Crypto.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.barcodes.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.commons.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.forms.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.html2pdf.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.io.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.kernel.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.layout.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.pdfa.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.sign.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.styledxmlparser.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itext.svg.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\itextsharp.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Logging.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Options.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Microsoft.Extensions.Primitives.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\Newtonsoft.Json.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Buffers.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Memory.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Numerics.Vectors.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\bin\Debug\System.ValueTuple.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume Creator VB.vbproj.AssemblyReference.cache
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume_Creator_VB.Form1.resources
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume_Creator_VB.Resources.resources
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume Creator VB.vbproj.GenerateResource.cache
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume Creator VB.vbproj.CoreCompileInputs.cache
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume Creator VB.exe
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume Creator VB.xml
+X:\School\Visual Studio\Repository\Resume Creator VB\Resume Creator VB\obj\Debug\Resume Creator VB.pdb
